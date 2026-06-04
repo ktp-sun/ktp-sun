@@ -36,6 +36,12 @@
   </tr>
 </table>
 
+## Work Snapshot
+
+<div align="center">
+  <img src="./assets/profile-charts.svg" alt="Build focus and workflow chart" width="100%" />
+</div>
+
 ## Tech Stack
 
 <div align="center">
