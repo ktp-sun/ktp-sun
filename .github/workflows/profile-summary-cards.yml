@@ -23,3 +23,16 @@ jobs:
         with:
           USERNAME: ktp-sun
           UTC_OFFSET: 7
+          AUTO_PUSH: false
+
+      - name: Keep selected theme
+        run: |
+          find profile-summary-card-output -mindepth 1 -maxdepth 1 ! -name github -exec rm -rf {} +
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "Update profile summary cards"
+          git push origin HEAD:main
