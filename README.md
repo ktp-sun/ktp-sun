@@ -39,7 +39,10 @@
 ## Work Snapshot
 
 <div align="center">
-  <img src="./assets/profile-charts.svg" alt="Build focus and workflow chart" width="100%" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="100%" />
+  <br>
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
 </div>
 
 ## Tech Stack
