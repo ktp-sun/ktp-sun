@@ -1,15 +1,44 @@
-﻿# Hi, I'm Kittipos 👋
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Kittipos - Full-stack Developer" width="100%" />
 
-Full-stack developer focused on building practical web applications, dashboard systems, and AI-assisted workflows. I work mainly with React, Node.js/Express, FastAPI, ASP.NET Core, MySQL, MongoDB, and automation tools.
+  <h1>Hi, I'm Kittipos</h1>
+
+  <p>
+    Full-stack developer focused on practical web applications, dashboard systems,
+    AI-assisted tools, and automation workflows.
+  </p>
+
+  <p>
+    <a href="https://github.com/ktp-sun">
+      <img src="https://img.shields.io/badge/GitHub-ktp--sun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    </a>
+  </p>
+</div>
+
+---
 
 ## What I Build
 
-- Full-stack web applications with authentication, dashboards, and role-based access control.
-- Business workflow systems for POS, procurement, inventory, and reporting.
-- AI/RAG applications using vector search, FastAPI, and local LLM tooling.
-- Automation workflows that connect chat platforms, APIs, and structured data.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Web Applications</h3>
+      <p>Authentication, dashboards, admin panels, role-based access, and business CRUD workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI + Data Systems</h3>
+      <p>RAG apps, vector search, FastAPI services, local LLM tooling, and database-backed chat history.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Automation Workflows</h3>
+      <p>API integrations, Telegram workflows, structured data pipelines, and operational process automation.</p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -21,6 +50,17 @@ Full-stack developer focused on building practical web applications, dashboard s
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</div>
+
+## Current Focus
+
+```text
+frontend      React, Vite, responsive dashboard interfaces
+backend       Node.js, Express, FastAPI, ASP.NET Core
+database      MySQL, MongoDB, schema design, sample data
+ai workflow   RAG, FAISS, local LLM tools, automation flows
+```
 
 ## Contact
 
