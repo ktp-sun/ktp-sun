@@ -35,43 +35,6 @@
   </tr>
 </table>
 
-## Experience
-
-| Period | Company | Role |
-| :--- | :--- | :--- |
-| Jun 2023 – Sep 2023 | **MATEE LAW AND BUSINESS COMPANY LIMITED** | Full-Stack Developer |
-| Sep 2023 – May 2025 | **THAI BEVERAGE PUBLIC COMPANY LIMITED** | Backend Developer |
-| Aug 2025 – Jul 2026 | **T.C.C TECHNOLOGY CO., LTD.** | Backend Developer |
-
-## Selected projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ktp-sun/DrKaset-Agricultural-AI-Assistant">DrKaset Agricultural AI</a></h3>
-      <p>Full-stack agricultural assistant with RAG, streaming responses, secure auth, chat history, and multi-format ingestion.</p>
-      <sub>React · FastAPI · MySQL · FAISS · Ollama</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ktp-sun/Restaurant-POS-Management-System">Restaurant POS</a></h3>
-      <p>Operations platform for menus, tables, orders, payments, billing, analytics, and role-aware management.</p>
-      <sub>React · Express · MongoDB</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ktp-sun/Fire-Extinguisher-Management-System">Inventory &amp; Maintenance</a></h3>
-      <p>Business system for asset tracking, inspections, reports, QR lookup, activity logs, and role-based access.</p>
-      <sub>React · Node.js · Express · MongoDB · JWT</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ktp-sun/Coffee-Matcha-Ecommerce-Platform">Coffee &amp; Matcha Platform</a></h3>
-      <p>E-commerce experience with product catalogues, carts, orders, inventory, and an admin dashboard.</p>
-      <sub>ASP.NET Core · C# · MySQL · Tailwind CSS</sub>
-    </td>
-  </tr>
-</table>
-
 ## Tech stack
 
 <div align="center">
