@@ -1,76 +1,127 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Kittipos - Full-stack Developer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Kittipos Meksumpun — Backend, AI, and full-stack developer" width="100%" />
 
-  <h1>Hi, I'm Kittipos</h1>
+  <h1>Hi, I’m Kittipos Meksumpun (Sun)</h1>
 
   <p>
-    Full-stack developer focused on practical web applications, dashboard systems,
-    AI-assisted tools, and automation workflows.
+    <strong>Backend Developer · AI Engineer · Full-Stack Builder</strong><br />
+    I turn practical requirements into reliable web systems, intelligent tools, and automation workflows.
   </p>
 
   <p>
-    <a href="https://github.com/ktp-sun">
-      <img src="https://img.shields.io/badge/GitHub-ktp--sun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
+    <a href="https://kittipos-portfolio-git.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
+    <a href="https://github.com/ktp-sun"><img src="https://img.shields.io/badge/GitHub-ktp--sun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   </p>
 </div>
 
 ---
 
-## What I Build
+## What I build
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Web Applications</h3>
-      <p>Authentication, dashboards, admin panels, role-based access, and business CRUD workflows.</p>
+      <h3>⚡ Full-Stack Systems</h3>
+      <p>Role-aware products, dashboards, admin panels, APIs, and business workflows that stay clear as they grow.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI + Data Systems</h3>
-      <p>RAG apps, vector search, FastAPI services, local LLM tooling, and database-backed chat history.</p>
+      <h3>✦ AI Engineering</h3>
+      <p>RAG applications, vector search, local LLM tooling, and automation that turns useful data into practical actions.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Automation Workflows</h3>
-      <p>API integrations, Telegram workflows, structured data pipelines, and operational process automation.</p>
+      <h3>⌁ Secure Foundations</h3>
+      <p>Backend services with authentication, sensible data boundaries, and a security-minded approach to reliability.</p>
     </td>
   </tr>
 </table>
 
-## Work Snapshot
+## Experience
+
+| Period | Company | Role |
+| :--- | :--- | :--- |
+| Jun 2023 – Sep 2023 | **MATEE LAW AND BUSINESS COMPANY LIMITED** | Full-Stack Developer |
+| Sep 2023 – May 2025 | **THAI BEVERAGE PUBLIC COMPANY LIMITED** | Backend Developer |
+| Aug 2025 – Jul 2026 | **T.C.C TECHNOLOGY CO., LTD.** | Backend Developer |
+
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktp-sun/DrKaset-Agricultural-AI-Assistant">DrKaset Agricultural AI</a></h3>
+      <p>Full-stack agricultural assistant with RAG, streaming responses, secure auth, chat history, and multi-format ingestion.</p>
+      <sub>React · FastAPI · MySQL · FAISS · Ollama</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktp-sun/Restaurant-POS-Management-System">Restaurant POS</a></h3>
+      <p>Operations platform for menus, tables, orders, payments, billing, analytics, and role-aware management.</p>
+      <sub>React · Express · MongoDB</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktp-sun/Fire-Extinguisher-Management-System">Inventory &amp; Maintenance</a></h3>
+      <p>Business system for asset tracking, inspections, reports, QR lookup, activity logs, and role-based access.</p>
+      <sub>React · Node.js · Express · MongoDB · JWT</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktp-sun/Coffee-Matcha-Ecommerce-Platform">Coffee &amp; Matcha Platform</a></h3>
+      <p>E-commerce experience with product catalogues, carts, orders, inventory, and an admin dashboard.</p>
+      <sub>ASP.NET Core · C# · MySQL · Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
+
+## Tech stack
+
+<div align="center">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend, data &amp; AI
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0b7285?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111827?style=flat-square)
+
+</div>
+
+## GitHub snapshot
 
 <div align="center">
   <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="100%" />
-  <br>
+  <br />
   <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
   <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
 </div>
 
-## Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-</div>
-
-## Current Focus
+## How I work
 
 ```text
-frontend      React, Vite, responsive dashboard interfaces
-backend       Node.js, Express, FastAPI, ASP.NET Core
-database      MySQL, MongoDB, schema design, sample data
-ai workflow   RAG, FAISS, local LLM tools, automation flows
+understand   clarify the real outcome before choosing the implementation
+prototype    build a small working slice and learn from feedback
+iterate      refine UX, performance, and edge cases instead of stopping at the first draft
+ship         keep the result documented, testable, and easy to maintain
 ```
 
 ## Contact
 
-- GitHub: [@ktp-sun](https://github.com/ktp-sun)
+<div align="center">
+  <p>Open to conversations about backend systems, AI-enabled products, and cooperative education opportunities.</p>
+  <p>📍 Pathum Thani, Thailand</p>
+  <a href="https://kittipos-portfolio-git.vercel.app">View my portfolio →</a>
+</div>
